@@ -1,0 +1,26 @@
+{
+  "places": [
+    {
+      "id": "family-town",
+      "name": "Delft",
+      "lat": 52.0116,
+      "lon": 4.3571,
+      "timeZone": "Europe/Amsterdam",
+      "template": "canal-street",
+      "seed": 7,
+      "features": { "tower": "spire", "trees": true, "bridge": false },
+      "_comment": "Placeholder. Delft stands in until John knows her family's town."
+    },
+    {
+      "id": "example-travel",
+      "name": "Rome",
+      "lat": 41.9028,
+      "lon": 12.4964,
+      "timeZone": "Europe/Rome",
+      "template": "city-silhouette",
+      "seed": 21,
+      "features": { "skyline": "content/skylines/rome.svg" },
+      "_comment": "Example of a non-Dutch place using a traced skyline. Not a real choice yet."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "memories": [
+    {
+      "id": "rome-2024-06",
+      "tile": "memories/rome-2024-06.tile.png",
+      "photo": "memories/rome-2024-06.jpg",
+      "place": "Rome",
+      "date": "2024-06",
+      "note": "",
+      "studio": { "crop": [0.1, 0.05, 0.8], "lines": 0.6, "tones": [0.35, 0.65] },
+      "_comment": "Example only. crop is [x, y, size] as fractions of the photo; lines and tones are filter settings saved so the tile can be re-rendered."
+    }
+  ]
+}

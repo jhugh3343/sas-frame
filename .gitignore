@@ -1,0 +1,16 @@
+node_modules/
+
+# Full-size original photos stay on John's PC; the studio exports web-sized copies into content/memories/
+photos-original/
+
+# Screenshot sheets from tools/shots.mjs
+shots/
+
+# Local overrides and caches
+config.local.json
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
